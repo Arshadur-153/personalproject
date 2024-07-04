@@ -1,0 +1,71 @@
+h1{
+    font-family: "consolas";
+    
+}
+p{
+    font-family: "consolas";
+    font-size: 25px;
+    clear:none;
+    
+    
+}
+h5{
+    font-family: "consolas";
+    border-left-style: double;
+    padding-left: 5px;
+}
+h1{
+
+    border-style:outset;
+    border-width: 5px;
+    border-color: goldenrod;
+    border-radius: 10px;
+    padding: 7px;
+}
+body{
+    background: linear-gradient(to right, black, rgb(77, 69, 69));
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 30px;
+}
+img{
+    position: relative;
+    left: 190px;
+}
+table{
+    position: relative;
+    left: 480px;
+}
+video{
+    position: relative;
+    left: 530px;
+}
+a:link{
+    color: blueviolet;
+}
+a:visited{
+    color: grey;
+}
+a:hover{
+    color:brown ;
+}
+a:active{
+    color:aqua;
+}
+button:hover{
+    background-color: grey;
+}
+button:active{
+    background-color: white;
+}
+.fa-youtube{
+    color: red;
+}
+.fa-google{
+    color: yellow;
+}
+.fa-twitter{
+    color: skyblue;
+}

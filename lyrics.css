@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(to right, black, rgb(77, 69, 69));
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 30px;
+}
+.fa-youtube{
+    color: red;
+}
+a:link{
+    color: blueviolet;
+}
+a:visited{
+    color: grey;
+}
+a:hover{
+    color:brown ;
+}
+a:active{
+    color:aqua;
+}
